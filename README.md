@@ -13,6 +13,7 @@ This GitHub repository comprises a collection of projects developed during my jo
 ## Turkish Description
 🚀 **Veri Bilimi Projelerim** 📊   
 Bu GitHub deposu, veri bilimi alanındaki öğrenme serüvenimde geliştirdiğim projelerin bir koleksiyonunu içerir. Bu projeler, farklı konularda veri analizi, makine öğrenimi ve veri görselleştirmesi üzerine odaklanmıştır.  
+
 🔍 **Projelerin İçeriği:**
 
 **Makine Öğrenimi Uygulamaları:** Doğrusal regresyon, sınıflandırma ve kümeleme gibi çeşitli makine öğrenimi algoritmalarının uygulandığı projeler.  
